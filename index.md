@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Test
 
-<a href="recipes.md">Recipes</a>
+[Recipes](./recipes.md)
