@@ -8,3 +8,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - index.md
+  - recipes.md
+
+theme: jekyll-theme-tactile
