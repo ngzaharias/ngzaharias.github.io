@@ -1,3 +1,3 @@
 ### Recipes
 
-* [German Apple Pie](./recipes.md)
+* [German Apple Pie](./apple_pie.md)
