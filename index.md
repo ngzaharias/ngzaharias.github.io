@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Test
 
-<img src="recipes/apple_pie.jpg" class="img-responsive" alt="">
+<a href="recipes.md">Recipes</a>
