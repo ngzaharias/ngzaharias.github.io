@@ -1,4 +1,4 @@
-### Scones
+### Split Pea Soup
 ![image](./recipes/split_pea_soup.jpg)
 
 ## Ingredients
