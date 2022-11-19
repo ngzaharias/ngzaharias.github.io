@@ -1,5 +1,5 @@
 ### Scones
-<img src="recipes/scones.jpg" class="img-responsive" alt="">
+![image](/docs/assets/images/recipes/german_apple_pie.png)
 
 ## Ingredients
 * 2 cups plain flour

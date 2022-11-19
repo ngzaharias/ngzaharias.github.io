@@ -1,5 +1,4 @@
-# Banana Bread
-![image](/docs/assets/images/recipes/banana_bread.jpg)
+![image](/docs/assets/images/recipes/banana_bread.png)
 
 ## Ingredients
 * 1½ cup plain flour

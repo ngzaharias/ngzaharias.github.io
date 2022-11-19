@@ -1,5 +1,4 @@
-### Split Pea Soup
-![image](./recipes/split_pea_soup.jpg)
+![image](/docs/assets/images/recipes/split_pea_soup.png)
 
 ## Ingredients
 * 2 tablespoons unsalted butter

@@ -1,5 +1,4 @@
-### Creamy Roasted Cauliflower Soup
-<img src="recipes/cauliflower_soup.jpg" class="img-responsive" alt="">
+![image](/docs/assets/images/recipes/cauliflower_soup.png)
 
 ## Ingredients
 * 1 large head cauliflower, chopped into florets
