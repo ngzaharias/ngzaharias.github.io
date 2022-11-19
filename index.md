@@ -1,4 +1,4 @@
 ### Links
 
-[About](/docs/about.md)  
-[Recipes](/docs/recipes.md)  
+[About](/about.md)  
+[Recipes](/recipes.md)  
