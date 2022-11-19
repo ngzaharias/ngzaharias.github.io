@@ -1,4 +1,5 @@
 ![image](/docs/assets/images/recipes/blueberry_lemon_cake.png)
+### Blueberry Lemon Cake
 
 ## Ingredients
 * 1½ cups all-purpose flour

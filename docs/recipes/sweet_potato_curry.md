@@ -1,4 +1,5 @@
 ![image](/docs/assets/images/recipes/sweet_potato_curry.png)
+### Sweet Potato Curry
 
 ## Ingredients
 * 1 tablespoon olive oil

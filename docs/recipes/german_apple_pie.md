@@ -1,4 +1,5 @@
 ![image](/docs/assets/images/recipes/german_apple_pie.png)
+### German Apple Pie
 
 ## Ingredients
 * 125g butter

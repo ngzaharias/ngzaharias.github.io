@@ -1,4 +1,5 @@
 ![image](/docs/assets/images/recipes/cauliflower_soup.png)
+### Cauliflower Soup
 
 ## Ingredients
 * 1 large head cauliflower, chopped into florets
