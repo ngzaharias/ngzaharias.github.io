@@ -1,3 +1,0 @@
-### Links
-
-[Recipes](./recipes.md)
