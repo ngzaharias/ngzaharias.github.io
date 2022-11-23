@@ -13,7 +13,7 @@
 * ¼ teaspoon ground nutmeg
 
 ## Instructions
-1. Preheat the oven to 220 degrees Celcius.
+1. Preheat the oven to 220°C.
 2. Toss cauliflower with 2 tablespoons of the olive oil in a large bowl. Arrange the cauliflower in a single layer on a baking tray and sprinkle lightly with salt. 
 3. Place in the oven and bake until the cauliflower is tender and caramelized on the edges, 25 to 35 minutes, tossing halfway.
 4. Once the cauliflower is almost done, in a Dutch oven or soup pot, warm the remaining 1 tablespoon olive oil over medium heat until shimmering. Add the onion and ¼ teaspoon salt. Cook, stirring occasionally, until the onion is softened and turning translucent, 5 to 7 minutes.
