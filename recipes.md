@@ -1,3 +1,4 @@
+## Recipes
 ### Meals
 * [Beef Pasta Bake](./recipes/beef_pasta_bake.md)
 * [Broccoli Fritters](./recipes/broccoli_fritters.md)
