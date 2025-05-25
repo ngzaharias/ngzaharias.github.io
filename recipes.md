@@ -1,5 +1,6 @@
 ## Recipes
 ### Meals
+* [Beef Cavatappi](./recipes/beef_cavatappi.md)
 * [Beef Pasta Bake](./recipes/beef_pasta_bake.md)
 * [Broccoli Fritters](./recipes/broccoli_fritters.md)
 * [Cauliflower Cottage Pie](./recipes/cauliflower_cottage_pie.md)
