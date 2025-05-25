@@ -6,6 +6,7 @@
 * [Lentil Mushroom Sauce](./recipes/lentil_mushroom_sauce.md)
 * [Quiche](./recipes/quiche.md)
 * [Sweet Potato Curry](./recipes/sweet_potato_curry.md)
+* [Tofu Tacos](./recipes/tofu_tacos.md)
 
 ### Desserts
 * [Banana Bread](./recipes/banana_bread.md)
